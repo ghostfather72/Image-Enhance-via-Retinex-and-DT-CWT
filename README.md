@@ -33,4 +33,4 @@ Here I describe a Retinex theory based method for contrast and illuminance enhan
 
 ##### Results of different methods compare to reference
 
-<img src="README-images/compare.png" width = "850" height = "450" align=center /> 
+<img src="README-images/compare.png" width = "850" height = "500" align=center /> 
