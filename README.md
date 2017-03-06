@@ -20,16 +20,16 @@ Here I describe a Retinex theory based method for contrast and illuminance enhan
 ### Results
 
 ##### Restoration Example
-<img src="README-images/whitehouse.png" width = "425" height = "350" align = center />  <img src="README-images/result.png" width = "425" height = "350" align = center />
+<img src="README-images/whitehouse.png" width = "425" height = "320" align = center />  <img src="README-images/result.png" width = "425" height = "320" align = center />
 
 ##### Enhanced Result Compare to Other Algorithms
 <img src="README-images/flower.png" width = "850" height = "350" align=center />
 
 ##### Histograms of different methods
-<img src="README-images/house1.png" width = "425" height = "500" align=center /> <img src="README-images/house2.png" width = "425" height = "500" align=center />
+<img src="README-images/house1.png" width = "425" height = "450" align=center /> <img src="README-images/house2.png" width = "425" height = "450" align=center />
 
 ##### Details
-<img src="README-images/details.png" width = "850" height = "700" align=center />
+<img src="README-images/details.png" width = "850" height = "650" align=center />
 
 ##### Results of different methods compare to reference
 
